@@ -6,5 +6,5 @@ This extension just includes:
 
 a content script, "hBtB7yMuBqVtJiK.js", that is injected into any pages under "youtube.com" or any of its subdomains/
 
-### What it shows
+## What it shows
 Remove UBoost/Юбуст ads
